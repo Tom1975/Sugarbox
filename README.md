@@ -1,5 +1,6 @@
 ![Sugarbox](https://raw.githubusercontent.com/Tom1975/Sugarbox/master/SplashScreen.bmp)
 
+This nice logo was provided by Barjack, thanks to him !
 
 # Sugarbox
 Sugarbox is an Amstrad CPC/CPC+ Emulator
@@ -28,3 +29,4 @@ Support the following tape format :
 - WAV
 
 Also support CDT (cartridge) format.
+
